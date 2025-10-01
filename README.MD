@@ -1,0 +1,1 @@
+This repository contains deployment of projects. EDA and feature engineering part is done in projects folder and repository.
